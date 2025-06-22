@@ -3,7 +3,7 @@ import {Lusitana} from "next/font/google";
 
 
 export const inter = Inter({
-    subset: ['latin']
+    subsets: ['latin'],
 });
 
 export const lusitana = Lusitana({
